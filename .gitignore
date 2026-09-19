@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+Decorators/
+OOPS/
+test_numpy.py
+README.md
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
