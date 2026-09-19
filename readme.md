@@ -1,7 +1,8 @@
 # MicroGrad
 
 A project for learning automatic differentiation with Python and NumPy.
-Backpropogation and basic neural network working following Andrej karpathy. 
+
+Backpropagation and basic neural network working following Andrej Karpathy's work. 
 
 ## Run
 
