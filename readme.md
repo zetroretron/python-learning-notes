@@ -1,9 +1,15 @@
-# MicroGrad
+# Machine Learning Journey
 
-A project for learning automatic differentiation with Python and NumPy.
+This repository documents my progress, notes, and implementations as I study machine learning from first principles to applied models.
 
-Backpropagation and basic neural network working following Andrej Karpathy's work. 
+## Roadmap & Topics
 
-## Run
+### 1. From-Scratch Deep Learning
+- **Resource**: [Andrej Karpathy - Neural Networks: Zero to Hero](https://youtube.com/...)
+- **Core Topics**: Scalar autograd engines, computational graphs, backpropagation, MLP architectures.
+- [Folder: Fundamentals from Scratch](./01_fundamentals_from_scratch/)
 
-Open `MicroGrad/1st.ipynb` in VS Code and run the cells.
+### 2. Applied Machine Learning
+- **Resource**: Kaggle Learn (Intro & Intermediate ML)
+- **Core Topics**: Feature engineering, model validation, handling missing values, decision trees.
+- [Folder: Applied ML](./02_applied_ml/)
