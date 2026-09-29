@@ -4,7 +4,7 @@ This repository is a collection of my notes, experiments, and implementations fr
 
 ## Currently Following
 
-At the moment, I’m working through the [CampusX Machine Learning playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7). It’s one part of my learning journey, alongside other resources and experiments.
+At the moment, I’m working through the [CampusX Pytorch playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7). It’s one part of my learning journey, alongside other resources and experiments.
 
 ## Topics and Experiments
 
